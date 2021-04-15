@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shekmenon039
-- 👀 I’m interested in Operating Systems and Firmware Engineering
-- 🌱 I’m currently learning in bootloaders and OSes for all machines
+- 👀 I love to tinker with OS'es
+- 🌱 I’m currently learning to make OS for many machines
 - 💞️ I’m looking to collaborate on anything related to firmware development 
 - 📫 How to reach me - You can reach me on LinkedIn - www.linkedin.com/in/shekhar-menon039
 
